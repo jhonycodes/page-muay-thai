@@ -90,6 +90,7 @@ section#hero{
     background-attachment: fixed;
     background-size: cover;
     background-position: top;
+    border-radius: 6px;
 }
 
 #hero h1{
